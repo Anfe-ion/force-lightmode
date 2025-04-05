@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Forzar Light Mode",
     "version": "1.0",
-    "description": "Activa modo claro con un clic.",
+    "description": "Activa/desactiva modo claro con un clic.",
     "permissions": ["scripting", "activeTab"],
     "action": {
       "default_title": "Forzar modo claro",
